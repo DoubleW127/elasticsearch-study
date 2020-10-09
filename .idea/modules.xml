@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/elasticsearch-study.iml" filepath="$PROJECT_DIR$/.idea/elasticsearch-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-ElasticSearchClient/es-ElasticSearchClient.iml" filepath="$PROJECT_DIR$/es-ElasticSearchClient/es-ElasticSearchClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-SpringData/es-SpringData.iml" filepath="$PROJECT_DIR$/es-SpringData/es-SpringData.iml" />
+    </modules>
+  </component>
+</project>
